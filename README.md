@@ -1,4 +1,5 @@
-# VacTrack-AI-Vaccine-Tracking-System
+# VacTrack AI Vaccine Tracking System
+
 VacTrack (Vaccine Tracking System) is a smart, web-based AI information technology system to order and manage vaccine distribution among state, local, territorial health departments and health care providers using  Satellite geolocation, GPRS to monitor, evaluate &amp; store demographical physiology of the target population in order to enhance the Vaccine Allocation, Monitoring, Tracking, and Distribution Systems.
 
 ![image](https://user-images.githubusercontent.com/67471222/118410082-52d0a380-b6ab-11eb-95ae-99aaefe3aff4.png)
