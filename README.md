@@ -24,8 +24,8 @@ VacTrack detects, considers uncertainty in the network design of vaccine supply 
 Additionally, VacTrack system models the difference between high- and low-priority demands for vaccine through the Classification Layer and segment Haiti into fixed set of zones using satellite geo-location, GPRS sensors as by evaluating the movement of a group of people at a specific region over the 3D axis and classifying the region which is being monitored into fixed separate zones due to the constant change in morphological physiology based on the priority, demand (need) for vaccination in the particular region.
 
     red zone     = high-priority for vaccination (high demand)
-    yellow zone  = moderate priority for vaccination(moderate demand)
-    green zone   = comparatively less priority for vaccination(least demand)
+    yellow zone  = moderate priority for vaccination (moderate demand)
+    green zone   = comparatively less priority for vaccination (low demand)
    
 ![image](https://user-images.githubusercontent.com/67471222/118410480-3cc3e280-b6ad-11eb-98e2-e88e22fbf5e8.png)
    
